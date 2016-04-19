@@ -1,2 +1,2 @@
-# Simple-Stopwatch
-iOS Stopwatch in Swift
+# Simple-Timer
+iOS Timer in Swift
